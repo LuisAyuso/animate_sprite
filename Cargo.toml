@@ -1,0 +1,10 @@
+[package]
+name = "anim-sprite"
+version = "0.1.0"
+authors = ["Luis Ayuso <luis.f.ayuso@gmail.com>"]
+
+[dependencies]
+piston_window = "0.67.0"
+piston-ai_behavior = "0.20.0"
+piston2d-sprite = "0.36.0"
+find_folder = "0.3.0"
